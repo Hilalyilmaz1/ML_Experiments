@@ -129,6 +129,6 @@ python bert.py
 #### ✍️ Related Writing
 his project is accompanied by a detailed Medium article explaining the motivation, experiments, and insights.
 
-📎 Medium: (link will be added)
-
+📎 Medium: [(link will be added)
+](https://medium.com/@yilmazhilal053/while-browsing-through-my-github-repositories-recently-one-of-my-old-projects-caught-my-attention-2f85633bf368?postPublishedType=repub)
 
